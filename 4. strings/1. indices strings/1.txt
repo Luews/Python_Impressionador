@@ -1,0 +1,3 @@
+todas as strings no python são listas
+
+sempre começando pelo 0
